@@ -18,7 +18,7 @@
    ![img/abriride.png](img/abriride.png)
 9. Para os próximos comandos utilize o console bash que fica no canto inferior do seu IDE.
    ![img/bash.png](img/bash.png)
-10. Execute o comando `npm install -g serverless` para instalar o serverless framework.
+10. Execute o comando `npm install -g serverless ` # para instalar o serverless framework.
     ![img/installserverless.png](img/installserverless.png)
 11. Execute o comando `sudo apt  install jq -y` para instalar o software que irá nos ajudar a ler e manipular Jsons no terminal
 12. Execute o comando `git clone https://github.com/vamperst/cicd-tutorials.git` para clonar o repositório com os exercicios.
